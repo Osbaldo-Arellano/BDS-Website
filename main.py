@@ -69,4 +69,4 @@ BDS's power lies in collective action. We need to protect every member with coll
 📥 [Click here to download Signal](https://signal.org/download/)
 """)
 
-st.info("💡 Tip: Schedule privacy trainings regularly and encourage all members to use the same communication tools.")
+st.info("💡 Tip: Schedule privacy trainings to ensure all members are using Signal correctly.")
