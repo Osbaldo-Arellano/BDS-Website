@@ -1,0 +1,9 @@
+runtime: python311
+
+entrypoint: streamlit run main.py --server.port=8080 --server.enableCORS=false
+
+instance_class: F1
+
+env_variables:
+  STREAMLIT_SERVER_HEADLESS: true
+  STREAMLIT_SERVER_PORT: 8080
